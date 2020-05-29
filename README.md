@@ -103,3 +103,7 @@ The biggest limitation to the market right now is the spread of Covid-19, which 
 First we would like to explore a larger dataset to see if particular Actors or Directors can help boost revenue.
 
 We would also like to collect data from a focus group to see if there would be interest in making a movie based of a Microsoft IP-e.g., current video game series
+
+## Presentation
+
+https://docs.google.com/presentation/d/1R7RFa1d1OMULlJ5Qd99jdSjU2P2ujZpYLzHTpL9EhDk/edit#slide=id.p
