@@ -68,7 +68,7 @@ The movie industry has a few big players that dominate the blockbuster movies. T
 
 ![](PNG%20Visuals/top_revenue_producing_studios_all_movies.png)
 
-After establishing that the movie industry is fast growing we wanted to investigate what audience should be targeted. MPAA rating (G, PG, PG-13, R) helps us better understand the general demographic of movie goers. In the line chart below it illustrates the dramatic growth of PG-13 movies since it's creation in the 1980's. Prior to 2000, PG & R films dominated the industry. At the start of the 21st century, the creation of blockbuster PG-13 movies grew bu a multiple of 2.5x. We can determine that PG-13 was the main contributor to the overall growth of the movie industry since the 2000's and is the audience that Microsoft should be targeting.
+After establishing that the movie industry is fast growing we wanted to investigate what audience should be targeted. MPAA rating (G, PG, PG-13, R) helps us better understand the general demographic of movie goers. In the line chart below it illustrates the dramatic growth of PG-13 movies since it's creation in the 1980's. Prior to 2000, PG & R films dominated the industry. At the start of the 21st century, the creation of blockbuster PG-13 movies grew bu a multiple of 2.5x. We can determine that PG-13 is the audience that Microsoft should be targeting.
 
 ![](PNG%20Visuals/Mpaa_Rating_by_year.png)
 
