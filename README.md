@@ -80,7 +80,7 @@ Understanding that PG-13 should be our target audience we wanted to understand h
 
 ![](PNG%20Visuals/Avg_dollar_figs_genre.png)
 
-Diving deeper within the PG-13 cateogry we focused on the Action and Horror genres. No surprise that Marvel Studios is the top production studio for Action with Avatar and Star Wars being the best overall performing movies. Horror as illustrated in the plot graph is far and away the most profitable genre generating an average 81% profit off of total revenue. 
+Diving deeper within the PG-13 cateogry we focused on the Action and Horror genres. No surprise that Marvel Studios is the top production studio for Action with Avatar and Star Wars being the best overall performing movies. Horror as illustrated in the plot graph is far and away the most profitable (total profit/total revenue) genre generating an average 81% profit off of total revenue. 
 
 ![](PNG%20Visuals/PG13_Analysis.png)
 
