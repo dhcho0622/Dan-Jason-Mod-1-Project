@@ -35,7 +35,7 @@ From here we posed 4 questions we wanted to focus our analysis:
  * Seaborn
  
 ## Data Collection
-A quick review of Box Offie Mojo, TMDB, IMDB & Rotten Tomatoes revealed that that the collecting data from the first two sources would be the place course of action. We deemed with the organized format of the website Box Office Mojo web scrapping using BeautifulSoup would be the best tool. Because of TMDB's API friendly user interface we utilized Json & Requests to do our API pull. We ulitmately were able to combine these two sets of film data along their IMDB movie ids.
+A quick review of Box Offie Mojo, TMDB, IMDB & Rotten Tomatoes revealed that that collecting data from the first two sources would be the best course of action. We deemed with the organized format of Box Office Mojo web scrapping using BeautifulSoup would be the best tool. Because of TMDB's API friendly user interface we utilized Json & Requests to do our API pull. We ulitmately were able to combine these two sets of film data along their IMDB movie ids.
 
 **Web Scraping**
 
@@ -45,9 +45,9 @@ When the function was done looping through all of the webpages we would get a li
 
 **API**
 
-We used TMDB for our API pulls. TMDB was a great resource for API as they had an easy to use interface and clear parameters of what we were able to access. The first step was requesting an API Key from TMDB in order access the data and using the libraries JSON & Requests. We identified by using an API pull for movie details gave us the most relevant data. 
+We used TMDB for our API pulls. TMDB was a great resource for API as they had an easy to use interface and clear parameters of what we were able to access. The first step was requesting an API Key from TMDB in order access the data and using the libraries JSON & Requests. We identified that using an API pull for movie details gave us the most relevant data. 
 
-Taking the list of imdb ids from the web scrape were able to access additional data from TMDB that included metrics ranging from budget, genre, production company & countries, etc. A Pandas DataFrame was also created for TMDB data. We then joined the two dataframes together again under the common imdb id to put everything into one workable data frame.
+Taking the list of imdb ids from the web scrape were able to access additional data from TMDB that included metrics ranging from budget, genre, production company & countries, etc. A Pandas DataFrame was also created for TMDB data. We then joined the two dataframes together again under the common imdb id to put everything into one workable dataframe.
 
 Lastly we exported the dataframe to a .csv file for future access and to begin working on our data cleaning.
 
@@ -64,7 +64,7 @@ To address our first question we found that the movie industry has been showing 
 
 ![](PNG%20Visuals/yearly_movie_revenue_growth.png)
 
-The movie industry has a few big players that dominate the blockbuster movies. The bar char below highlights the top 10 revenue generating production studios of all time. Universal, Disney and Paramount are the top 3. As one of the largest corporation in the world, Microsoft has the ability to compete with the biggest players.
+The movie industry has a few big players that dominate the blockbuster movies. The bar chart below highlights the top 10 revenue generating production studios of all time. Universal, Disney and Paramount are the top 3. As one of the largest corporations in the world, Microsoft has the unique ability to compete with the biggest players.
 
 ![](PNG%20Visuals/top_revenue_producing_studios_all_movies.png)
 
@@ -106,4 +106,4 @@ We would also like to collect data from a focus group to see if there would be i
 
 ## Presentation 
 
-https://docs.google.com/presentation/d/1R7RFa1d1OMULlJ5Qd99jdSjU2P2ujZpYLzHTpL9EhDk/edit#slide=id.p
+https://docs.google.com/presentation/d/1R7RFa1d1OMULlJ5Qd99jdSjU2P2ujZpYLzHTpL9EhDk/edit#slide=id.g87b6624901_0_746
