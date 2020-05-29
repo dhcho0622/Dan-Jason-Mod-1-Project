@@ -72,7 +72,7 @@ After establishing that the movie industry is fast growing we wanted to investig
 
 ![](PNG%20Visuals/Mpaa_Rating_by_year.png)
 
-This swarm plot further illustrates the revenue driving ability that PG-13 movies have. Many movies in all ratings have been able to achieve a revenue total ranging from $100-$500 million. However, it is PG-13 that have had the most success in reaching the highest box office totals of 1B+ further illustrating that PG-13 should be the focus for Micorsoft.
+This swarm plot further illustrates the revenue driving ability that PG-13 movies have. Many movies in all ratings have been able to achieve a revenue total ranging from $100-$300 million. However, it is PG-13 that have had the most success in reaching the highest box office totals of 1B+ further illustrating that PG-13 should be the focus for Micorsoft.
 
 ![](PNG%20Visuals/Movie_Rev_by_rating.png)
 
